@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Divyanshu</h1>
-<h3 align="center">AI Developer | Web Developer | Python Enthusiast</h3>
+<h3 align="center">AI Developer | Data Science | Python Enthusiast</h3>
 
 <img align="right" alt="coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
